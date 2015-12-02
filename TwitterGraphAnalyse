@@ -1,0 +1,52 @@
+\documentclass[10pt,a4paper]{article}
+
+\title{Summary of different mathematical tools to analyse large non-directed network and application to the Australian tweetter network}
+\date{\today}
+\author{Pierre Mistiaen}
+
+\begin{document}
+
+{\centering \maketitle}
+
+
+\section{About the nodes}
+
+\subsection{Mean degree, standard deviation degree}
+
+\subsection{Degree distribution}
+
+\subsection{Betweenness centrality}
+
+\section{About the links}
+
+\subsection{Diameter and closeness centrality}
+
+\subsection{Eigenvector centrality and PageRank centrality }
+
+
+\subsection{Clustering coefficient}
+
+\subsection{Pearson coefficients}
+
+\section{Group of nodes}
+
+\subsection{Max cliques, max k-core}
+
+\subsection{Clustering (Spectral method)}
+
+\subsection{Community detection : spectral method, betweenness-based method, hierachical clustering}
+
+\subsection{Community : Louvain method}
+
+\section{Conclusion : gathering all the datas}
+
+
+
+
+
+
+
+
+
+		
+\end{document}
